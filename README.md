@@ -1,8 +1,7 @@
 # Palindrome Birthdays
 Recent update September, 2022<br/>
 
-Learn about the triangles and take a quiz on it to test your learning.
-Attempt all questions to see the result, each correct answer will get 1 point
+App which checks whether your birthday is a palindrome birthday or not.
 
 <br/>preview<br/>
 ![image](https://user-images.githubusercontent.com/43793294/195977300-0aa08bef-1f9e-407f-9cb8-de165398d0b3.png)
